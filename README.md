@@ -13,8 +13,8 @@
 Estudante de Linguagens de Programação e Inteligência Artificial Aplicada construindo projetos, explorando conceitos e colocando ideias em prática através do código.
 
 - 🏫 Integrante/Sócio do <a href="https://www.devclub.com.br/">DevClub</a>
-- 💻 Projetos acadêmicos e práticos  
-- 🧩 Interesse em interfaces digitais responsivas
+- 💻 Projetos práticos dinâmicos e responsivos
+- 🧩 Interesse em interfaces digitais e otimizações
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alef-fullstack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
