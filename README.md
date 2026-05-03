@@ -1,5 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-<h1 align="center">Olá! Eu sou a <b>Alef</b></h1>
+<h1 align="center">Olá! Eu sou o <strong>Alef</strong> 💻​🖥️</h1>
 
 ###
 
@@ -14,7 +14,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 
 - 🏫 Integrante/Sócio do <a href="https://www.devclub.com.br/">DevClub</a>
 - 💻 Projetos acadêmicos e práticos  
-- 🧩 Interesse em interfaces digitais e história da computação  
+- 🧩 Interesse em interfaces digitais responsivas
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alef-fullstack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -64,8 +64,14 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 
 #   Certificações
 
-<a href="https://www.dio.me/certificate/HEDZMV1L/share" target="_blank">
-  <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
+<a href="https://formacoes.devclub.com.br/verify/8c66381518642041bf52467e962679ebe61fc2ea" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="90"/>
+</a>
+<a href="https://formacoes.devclub.com.br/verify/b582e360be54960e0c852ff7b88497728ee576ec" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="90"/>
+</a>
+<a href="https://formacoes.devclub.com.br/verify/1f2deafa151169c2616051b1893593d4b8df0e14" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="90"/>
 </a>
 
 </div>
