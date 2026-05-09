@@ -56,7 +56,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alef-fullstack)](https://github.com/anuraghazra/github-readme-stats)
+[![Alef GitHub stats](https://github-readme-stats.vercel.app/api?username=alef-fullstack)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
