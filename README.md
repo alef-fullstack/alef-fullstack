@@ -1,5 +1,14 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-<h1 align="center">Olá! Eu sou o <strong>Alef</strong> 💻​🖥️</h1>
+<!-- SWITCH -->
+
+<p align="center">
+  <a href="README.pt.md">🇧🇷 PT</a> • <strong>EN</strong>
+</p>
+
+<!-- BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Olá!%20Eu%20sou%20o%20Alef%20💻​🖥️&fontAlign=50&fontSize=50&animation=fadeIn&section=header&reversal=false&fontAlignY=35"/>
+</p>
 
 ###
 
