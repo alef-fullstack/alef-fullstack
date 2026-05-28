@@ -50,7 +50,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 
 <p align="center">
   <img 
-    width="60%"
+    width="70%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=alef-fullstack&bg_color=0d1117&color=7C83FD&line=22c55e&point=ffffff&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
