@@ -23,7 +23,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
     <td align="center">
       <img 
         height="170"
-        width="100"
+        width="200"
         src="https://github-readme-stats-git-master-manuelalramos-projects.vercel.app/api?username=alef-fullstack&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C83FD&icon_color=22c55e&v=60"
         alt="GitHub Stats"
       />
@@ -31,7 +31,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
     <td align="center">
       <img 
         height="180"
-        width="100"
+        width="200"
         src="https://github-readme-streak-stats.herokuapp.com/?user=alef-fullstack&theme=tokyonight&hide_border=true&ring=7C83FD&fire=22c55e&currStreakLabel=7C83FD"
         alt="GitHub Streak"
       />
@@ -42,7 +42,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 <p align="center">
   <img 
     height="180"
-    width="100"
+    width="200"
     src="https://github-readme-stats-git-master-manuelalramos-projects.vercel.app/api/top-langs/?username=alef-fullstack&layout=compact&theme=tokyonight&hide_border=true&title_color=7C83FD&v=60"
     alt="Top Languages"
   />
