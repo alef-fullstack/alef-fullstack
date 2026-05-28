@@ -16,9 +16,42 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 - 💻 Projetos práticos dinâmicos e responsivos
 - 🧩 Interesse em interfaces digitais e otimizações
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alef-fullstack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h2 align="center">✦ GitHub Insights</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        height="170"
+        src="https://github-readme-stats-git-master-manuelalramos-projects.vercel.app/api?username=manuelalramos&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C83FD&icon_color=22c55e&v=60"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img 
+        height="170"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=manuelalramos&theme=tokyonight&hide_border=true&ring=7C83FD&fire=22c55e&currStreakLabel=7C83FD"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img 
+    height="180"
+    src="https://github-readme-stats-git-master-manuelalramos-projects.vercel.app/api/top-langs/?username=manuelalramos&layout=compact&theme=tokyonight&hide_border=true&title_color=7C83FD&v=60"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="85%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=manuelalramos&bg_color=0d1117&color=7C83FD&line=22c55e&point=ffffff&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
