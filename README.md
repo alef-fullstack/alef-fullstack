@@ -29,7 +29,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
     </td>
     <td align="center">
       <img 
-        height="170"
+        height="180"
         src="https://github-readme-streak-stats.herokuapp.com/?user=manuelalramos&theme=tokyonight&hide_border=true&ring=7C83FD&fire=22c55e&currStreakLabel=7C83FD"
         alt="GitHub Streak"
       />
@@ -47,7 +47,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 
 <p align="center">
   <img 
-    width="85%"
+    width="150"
     src="https://github-readme-activity-graph.vercel.app/graph?username=manuelalramos&bg_color=0d1117&color=7C83FD&line=22c55e&point=ffffff&area=true&hide_border=true"
     alt="GitHub Activity Graph"
   />
