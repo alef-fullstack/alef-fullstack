@@ -73,6 +73,9 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 <a href="https://formacoes.devclub.com.br/verify/1f2deafa151169c2616051b1893593d4b8df0e14" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="90"/>
 </a>
+<a href="https://formacoes.devclub.com.br/verify/18cebde1bb28ac55c8886bee6edc515fa52710a9" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="90"/>
+</a>
 
 </div>
 </td>
