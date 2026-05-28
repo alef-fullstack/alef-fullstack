@@ -127,3 +127,8 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 </table>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&fontAlign=50&fontSize=50&animation=fadeIn&section=footer&reversal=false&fontAlignY=35"/>
+</p>
+
+
