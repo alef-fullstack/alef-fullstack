@@ -71,6 +71,9 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
   <a href="https://www.instagram.com/dev.alef/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=alef-fullstacke&color=blueviolet&style=for-the-badge" />
+</p>
 </div>
 
 </td>
