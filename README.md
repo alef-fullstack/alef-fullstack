@@ -70,7 +70,7 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 #   Conecte-se comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alef-silva-84bba5402/" target="_blank">
+  <a href="https://www.linkedin.com/in/alefsilva-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/dev.alef/" target="_blank">
