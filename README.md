@@ -65,7 +65,9 @@ Estudante de Linguagens de Programação e Inteligência Artificial Aplicada con
 #   Conecte-se comigo
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Portif%C3%B3lio-%230993BD?style=flat-square&link=https%3A%2F%2Falef-fullstack.github.io%2FProjeto-Portifolio-Alef%2F" height="25" alt="linkedin logo"  />
+  <a href="https://alef-fullstack.github.io/Projeto-Portifolio-Alef/" target="_blank">
+  <img src="https://img.shields.io/badge/Portif%C3%B3lio-%230993BD?style=flat-square&link=https%3A%2F%2Falef-fullstack.github.io%2FProjeto-Portifolio-Alef%2F" height="25" width="25" alt="portifólio logo"  />
+  </a>
 
   <a href="https://www.linkedin.com/in/alefsilva-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
